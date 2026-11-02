@@ -1,4 +1,3 @@
-@@ -0,0 +1,22 @@
 # B1: Booth and Modified Booth Simulator
 COA Bright Learner Activity - 25CE3PCC03, Don Bosco Institute of Technology
 
